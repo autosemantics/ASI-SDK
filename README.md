@@ -17,3 +17,4 @@
 * 모든 작업은 Branch를 만들어 작업한다.  
 * 모든 라이브러리 및 프레임워크 개발 중 sub Branch가  main Branch에 포함할 때는 구현체에 Test Case 정의 및 관련 소스코드가 포함되어야 한다.  
 또한 반드시 Example 디렉토리를 만들어 간단한 사용법을 올리는 것을 권고한다. 
+* readme.MD 파일은 반드시 로컬에서 작업하여 push, commit 한다. Github Page 에서 작업해서 커밋하지 말 것!
